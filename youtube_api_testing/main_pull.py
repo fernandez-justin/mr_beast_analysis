@@ -42,7 +42,7 @@ def main():
         for id_list in csvReader:
             for id in id_list[:50]:
                 id_string_list_1_50 = str(f"{id_string_list_1_50},{id}")
-            for id in id_list[51:]:
+            for id in id_list[50:]:
                 id_string_list_51_100 = str(f"{id_string_list_51_100},{id}")
         
         id_string_list_1_50 = id_string_list_1_50[1:] # cutting initial
@@ -65,9 +65,9 @@ def main():
 
     #print(response)
 
-    # with open('..\\video_api_data_full\\full_videous_output_1_50.txt','a') as f:
+    # with open('..\\video_api_data_full\\full_videos_output_1_50.txt','w') as f:
     #     f.write(json_object)
-    with open('..\\video_api_data_full\\full_videous_output_51_100.txt','a') as f:
+    with open('..\\video_api_data_full\\full_videos_output_51_100.txt','w') as f:
         f.write(json_object)
 
 if __name__ == "__main__":

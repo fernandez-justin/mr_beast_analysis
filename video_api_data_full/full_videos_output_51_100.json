@@ -1,6 +1,22 @@
 {
     "items": [
         {
+            "id": "UE5AHE2Ypr8",
+            "snippet": {
+                "publishedAt": "2020-09-19T20:00:02Z",
+                "title": "I Gave My 40,000,000th Subscriber 40 Cars"
+            },
+            "contentDetails": {
+                "duration": "PT17M11S"
+            },
+            "statistics": {
+                "viewCount": "116674246",
+                "likeCount": "3647337",
+                "favoriteCount": "0",
+                "commentCount": "182875"
+            }
+        },
+        {
             "id": "TDiXxsQ0w2Q",
             "snippet": {
                 "publishedAt": "2020-09-17T20:00:05Z",
@@ -10,10 +26,10 @@
                 "duration": "PT6M22S"
             },
             "statistics": {
-                "viewCount": "46268007",
-                "likeCount": "2524533",
+                "viewCount": "46351709",
+                "likeCount": "2527032",
                 "favoriteCount": "0",
-                "commentCount": "98553"
+                "commentCount": "98573"
             }
         },
         {
@@ -26,10 +42,10 @@
                 "duration": "PT14M5S"
             },
             "statistics": {
-                "viewCount": "62964852",
-                "likeCount": "2294444",
+                "viewCount": "63056546",
+                "likeCount": "2296603",
                 "favoriteCount": "0",
-                "commentCount": "124173"
+                "commentCount": "124195"
             }
         },
         {
@@ -42,10 +58,10 @@
                 "duration": "PT18M22S"
             },
             "statistics": {
-                "viewCount": "164120382",
-                "likeCount": "3446538",
+                "viewCount": "164150669",
+                "likeCount": "3446848",
                 "favoriteCount": "0",
-                "commentCount": "154025"
+                "commentCount": "154026"
             }
         },
         {
@@ -58,10 +74,10 @@
                 "duration": "PT11M37S"
             },
             "statistics": {
-                "viewCount": "113404477",
-                "likeCount": "3377560",
+                "viewCount": "113676318",
+                "likeCount": "3382668",
                 "favoriteCount": "0",
-                "commentCount": "130718"
+                "commentCount": "130756"
             }
         },
         {
@@ -74,10 +90,10 @@
                 "duration": "PT15M10S"
             },
             "statistics": {
-                "viewCount": "96847883",
-                "likeCount": "2872001",
+                "viewCount": "96938237",
+                "likeCount": "2873316",
                 "favoriteCount": "0",
-                "commentCount": "86697"
+                "commentCount": "86703"
             }
         },
         {
@@ -90,10 +106,10 @@
                 "duration": "PT8M3S"
             },
             "statistics": {
-                "viewCount": "164899431",
-                "likeCount": "3511423",
+                "viewCount": "165080138",
+                "likeCount": "3513977",
                 "favoriteCount": "0",
-                "commentCount": "133172"
+                "commentCount": "133155"
             }
         },
         {
@@ -106,10 +122,10 @@
                 "duration": "PT16M4S"
             },
             "statistics": {
-                "viewCount": "164483714",
-                "likeCount": "4240946",
+                "viewCount": "164778852",
+                "likeCount": "4245010",
                 "favoriteCount": "0",
-                "commentCount": "207862"
+                "commentCount": "207955"
             }
         },
         {
@@ -122,10 +138,10 @@
                 "duration": "PT11M9S"
             },
             "statistics": {
-                "viewCount": "168020877",
-                "likeCount": "4690486",
+                "viewCount": "168172704",
+                "likeCount": "4692713",
                 "favoriteCount": "0",
-                "commentCount": "181131"
+                "commentCount": "181152"
             }
         },
         {
@@ -138,10 +154,10 @@
                 "duration": "PT14M57S"
             },
             "statistics": {
-                "viewCount": "107864500",
-                "likeCount": "2926750",
+                "viewCount": "107987433",
+                "likeCount": "2929230",
                 "favoriteCount": "0",
-                "commentCount": "191889"
+                "commentCount": "191951"
             }
         },
         {
@@ -154,10 +170,10 @@
                 "duration": "PT18M21S"
             },
             "statistics": {
-                "viewCount": "156996282",
-                "likeCount": "3239909",
+                "viewCount": "157074989",
+                "likeCount": "3240336",
                 "favoriteCount": "0",
-                "commentCount": "119840"
+                "commentCount": "119844"
             }
         },
         {
@@ -170,10 +186,10 @@
                 "duration": "PT13M56S"
             },
             "statistics": {
-                "viewCount": "123351189",
-                "likeCount": "2872076",
+                "viewCount": "123492542",
+                "likeCount": "2873974",
                 "favoriteCount": "0",
-                "commentCount": "75929"
+                "commentCount": "75940"
             }
         },
         {
@@ -186,10 +202,10 @@
                 "duration": "PT15M52S"
             },
             "statistics": {
-                "viewCount": "242000961",
-                "likeCount": "4137294",
+                "viewCount": "242257389",
+                "likeCount": "4140967",
                 "favoriteCount": "0",
-                "commentCount": "114597"
+                "commentCount": "114629"
             }
         },
         {
@@ -202,10 +218,10 @@
                 "duration": "PT17M21S"
             },
             "statistics": {
-                "viewCount": "166615961",
-                "likeCount": "6250237",
+                "viewCount": "166676998",
+                "likeCount": "6253284",
                 "favoriteCount": "0",
-                "commentCount": "162628"
+                "commentCount": "162651"
             }
         },
         {
@@ -218,10 +234,10 @@
                 "duration": "PT15M19S"
             },
             "statistics": {
-                "viewCount": "41102436",
-                "likeCount": "1379529",
+                "viewCount": "41119381",
+                "likeCount": "1379692",
                 "favoriteCount": "0",
-                "commentCount": "66755"
+                "commentCount": "66758"
             }
         },
         {
@@ -234,10 +250,10 @@
                 "duration": "PT13M32S"
             },
             "statistics": {
-                "viewCount": "108522857",
-                "likeCount": "3297461",
+                "viewCount": "108607186",
+                "likeCount": "3299485",
                 "favoriteCount": "0",
-                "commentCount": "65825"
+                "commentCount": "65837"
             }
         },
         {
@@ -250,10 +266,10 @@
                 "duration": "PT11M59S"
             },
             "statistics": {
-                "viewCount": "145516484",
-                "likeCount": "2698990",
+                "viewCount": "145716873",
+                "likeCount": "2701544",
                 "favoriteCount": "0",
-                "commentCount": "80789"
+                "commentCount": "80804"
             }
         },
         {
@@ -266,10 +282,10 @@
                 "duration": "PT12M29S"
             },
             "statistics": {
-                "viewCount": "43178967",
-                "likeCount": "1712161",
+                "viewCount": "43244696",
+                "likeCount": "1713769",
                 "favoriteCount": "0",
-                "commentCount": "67766"
+                "commentCount": "67774"
             }
         },
         {
@@ -282,10 +298,10 @@
                 "duration": "PT13M49S"
             },
             "statistics": {
-                "viewCount": "106685027",
-                "likeCount": "2819614",
+                "viewCount": "106889111",
+                "likeCount": "2823578",
                 "favoriteCount": "0",
-                "commentCount": "64698"
+                "commentCount": "64718"
             }
         },
         {
@@ -298,10 +314,10 @@
                 "duration": "PT18M41S"
             },
             "statistics": {
-                "viewCount": "105080135",
-                "likeCount": "2277878",
+                "viewCount": "105184525",
+                "likeCount": "2279233",
                 "favoriteCount": "0",
-                "commentCount": "69018"
+                "commentCount": "69067"
             }
         },
         {
@@ -314,10 +330,10 @@
                 "duration": "PT13M10S"
             },
             "statistics": {
-                "viewCount": "188038255",
-                "likeCount": "3686052",
+                "viewCount": "188238244",
+                "likeCount": "3688263",
                 "favoriteCount": "0",
-                "commentCount": "111555"
+                "commentCount": "111565"
             }
         },
         {
@@ -330,10 +346,10 @@
                 "duration": "PT15M23S"
             },
             "statistics": {
-                "viewCount": "103265005",
-                "likeCount": "2333429",
+                "viewCount": "103383699",
+                "likeCount": "2334857",
                 "favoriteCount": "0",
-                "commentCount": "56391"
+                "commentCount": "56388"
             }
         },
         {
@@ -346,10 +362,10 @@
                 "duration": "PT16M48S"
             },
             "statistics": {
-                "viewCount": "139935522",
-                "likeCount": "3491732",
+                "viewCount": "140055958",
+                "likeCount": "3493659",
                 "favoriteCount": "0",
-                "commentCount": "98201"
+                "commentCount": "98178"
             }
         },
         {
@@ -362,10 +378,10 @@
                 "duration": "PT13M38S"
             },
             "statistics": {
-                "viewCount": "97697454",
-                "likeCount": "1994506",
+                "viewCount": "97764942",
+                "likeCount": "1995494",
                 "favoriteCount": "0",
-                "commentCount": "46527"
+                "commentCount": "46531"
             }
         },
         {
@@ -378,10 +394,10 @@
                 "duration": "PT17M59S"
             },
             "statistics": {
-                "viewCount": "121100019",
-                "likeCount": "2394139",
+                "viewCount": "121218064",
+                "likeCount": "2395353",
                 "favoriteCount": "0",
-                "commentCount": "50648"
+                "commentCount": "50655"
             }
         },
         {
@@ -394,10 +410,10 @@
                 "duration": "PT13M48S"
             },
             "statistics": {
-                "viewCount": "58177122",
-                "likeCount": "2772759",
+                "viewCount": "58197448",
+                "likeCount": "2773104",
                 "favoriteCount": "0",
-                "commentCount": "175498"
+                "commentCount": "175502"
             }
         },
         {
@@ -410,10 +426,10 @@
                 "duration": "PT15M11S"
             },
             "statistics": {
-                "viewCount": "140665366",
-                "likeCount": "3872959",
+                "viewCount": "140789810",
+                "likeCount": "3875251",
                 "favoriteCount": "0",
-                "commentCount": "126054"
+                "commentCount": "126072"
             }
         },
         {
@@ -426,10 +442,10 @@
                 "duration": "PT15M25S"
             },
             "statistics": {
-                "viewCount": "111053151",
-                "likeCount": "3033801",
+                "viewCount": "111155727",
+                "likeCount": "3035151",
                 "favoriteCount": "0",
-                "commentCount": "302073"
+                "commentCount": "302075"
             }
         },
         {
@@ -442,10 +458,10 @@
                 "duration": "PT11M45S"
             },
             "statistics": {
-                "viewCount": "53263647",
-                "likeCount": "1313156",
+                "viewCount": "53290620",
+                "likeCount": "1313625",
                 "favoriteCount": "0",
-                "commentCount": "94088"
+                "commentCount": "94090"
             }
         },
         {
@@ -458,10 +474,10 @@
                 "duration": "PT15M46S"
             },
             "statistics": {
-                "viewCount": "75745761",
-                "likeCount": "1637382",
+                "viewCount": "75801010",
+                "likeCount": "1638164",
                 "favoriteCount": "0",
-                "commentCount": "49618"
+                "commentCount": "49627"
             }
         },
         {
@@ -474,10 +490,10 @@
                 "duration": "PT13M2S"
             },
             "statistics": {
-                "viewCount": "109813474",
-                "likeCount": "3757677",
+                "viewCount": "109906590",
+                "likeCount": "3760665",
                 "favoriteCount": "0",
-                "commentCount": "105887"
+                "commentCount": "105905"
             }
         },
         {
@@ -490,10 +506,10 @@
                 "duration": "PT13M3S"
             },
             "statistics": {
-                "viewCount": "92158302",
-                "likeCount": "1918924",
+                "viewCount": "92223874",
+                "likeCount": "1919899",
                 "favoriteCount": "0",
-                "commentCount": "82250"
+                "commentCount": "82256"
             }
         },
         {
@@ -506,10 +522,10 @@
                 "duration": "PT15M3S"
             },
             "statistics": {
-                "viewCount": "121227007",
-                "likeCount": "2624111",
+                "viewCount": "121317249",
+                "likeCount": "2625400",
                 "favoriteCount": "0",
-                "commentCount": "51404"
+                "commentCount": "51416"
             }
         },
         {
@@ -522,10 +538,10 @@
                 "duration": "PT10M52S"
             },
             "statistics": {
-                "viewCount": "90831565",
-                "likeCount": "2513372",
+                "viewCount": "90904493",
+                "likeCount": "2514837",
                 "favoriteCount": "0",
-                "commentCount": "94785"
+                "commentCount": "94802"
             }
         },
         {
@@ -538,10 +554,10 @@
                 "duration": "PT12M56S"
             },
             "statistics": {
-                "viewCount": "84517882",
-                "likeCount": "2079672",
+                "viewCount": "84595573",
+                "likeCount": "2081011",
                 "favoriteCount": "0",
-                "commentCount": "49640"
+                "commentCount": "49648"
             }
         },
         {
@@ -554,10 +570,10 @@
                 "duration": "PT16M57S"
             },
             "statistics": {
-                "viewCount": "123381331",
-                "likeCount": "2672703",
+                "viewCount": "123446013",
+                "likeCount": "2673704",
                 "favoriteCount": "0",
-                "commentCount": "55398"
+                "commentCount": "55403"
             }
         },
         {
@@ -570,10 +586,10 @@
                 "duration": "PT11M41S"
             },
             "statistics": {
-                "viewCount": "165430979",
-                "likeCount": "3401879",
+                "viewCount": "165573663",
+                "likeCount": "3404147",
                 "favoriteCount": "0",
-                "commentCount": "97079"
+                "commentCount": "97098"
             }
         },
         {
@@ -586,8 +602,8 @@
                 "duration": "PT15M10S"
             },
             "statistics": {
-                "viewCount": "46676686",
-                "likeCount": "1240265",
+                "viewCount": "46683593",
+                "likeCount": "1240371",
                 "favoriteCount": "0",
                 "commentCount": "30942"
             }
@@ -602,10 +618,10 @@
                 "duration": "PT7M23S"
             },
             "statistics": {
-                "viewCount": "85619690",
-                "likeCount": "4155189",
+                "viewCount": "85798012",
+                "likeCount": "4159608",
                 "favoriteCount": "0",
-                "commentCount": "166919"
+                "commentCount": "166952"
             }
         },
         {
@@ -618,10 +634,10 @@
                 "duration": "PT16M48S"
             },
             "statistics": {
-                "viewCount": "100410605",
-                "likeCount": "1850308",
+                "viewCount": "100460388",
+                "likeCount": "1851008",
                 "favoriteCount": "0",
-                "commentCount": "58738"
+                "commentCount": "58736"
             }
         },
         {
@@ -634,10 +650,10 @@
                 "duration": "PT17M9S"
             },
             "statistics": {
-                "viewCount": "135969778",
-                "likeCount": "2325013",
+                "viewCount": "136101260",
+                "likeCount": "2326744",
                 "favoriteCount": "0",
-                "commentCount": "56408"
+                "commentCount": "56415"
             }
         },
         {
@@ -650,10 +666,10 @@
                 "duration": "PT15M38S"
             },
             "statistics": {
-                "viewCount": "195244038",
-                "likeCount": "4118532",
+                "viewCount": "195385114",
+                "likeCount": "4121008",
                 "favoriteCount": "0",
-                "commentCount": "130567"
+                "commentCount": "130575"
             }
         },
         {
@@ -666,10 +682,10 @@
                 "duration": "PT16M3S"
             },
             "statistics": {
-                "viewCount": "52580705",
-                "likeCount": "1660137",
+                "viewCount": "52618740",
+                "likeCount": "1661202",
                 "favoriteCount": "0",
-                "commentCount": "44162"
+                "commentCount": "44167"
             }
         },
         {
@@ -682,10 +698,10 @@
                 "duration": "PT13M9S"
             },
             "statistics": {
-                "viewCount": "99574753",
-                "likeCount": "2137078",
+                "viewCount": "99636343",
+                "likeCount": "2138286",
                 "favoriteCount": "0",
-                "commentCount": "72567"
+                "commentCount": "72572"
             }
         },
         {
@@ -698,8 +714,8 @@
                 "duration": "PT14M32S"
             },
             "statistics": {
-                "viewCount": "60481528",
-                "likeCount": "1374614",
+                "viewCount": "60518026",
+                "likeCount": "1375186",
                 "favoriteCount": "0",
                 "commentCount": "44663"
             }
@@ -714,10 +730,10 @@
                 "duration": "PT13M59S"
             },
             "statistics": {
-                "viewCount": "59916551",
-                "likeCount": "1408467",
+                "viewCount": "59934814",
+                "likeCount": "1408789",
                 "favoriteCount": "0",
-                "commentCount": "33540"
+                "commentCount": "33543"
             }
         },
         {
@@ -730,10 +746,10 @@
                 "duration": "PT13M8S"
             },
             "statistics": {
-                "viewCount": "72989827",
-                "likeCount": "2100065",
+                "viewCount": "73061980",
+                "likeCount": "2101333",
                 "favoriteCount": "0",
-                "commentCount": "56984"
+                "commentCount": "56995"
             }
         },
         {
@@ -746,10 +762,10 @@
                 "duration": "PT16M39S"
             },
             "statistics": {
-                "viewCount": "112206986",
-                "likeCount": "3148808",
+                "viewCount": "112273538",
+                "likeCount": "3150385",
                 "favoriteCount": "0",
-                "commentCount": "139318"
+                "commentCount": "139333"
             }
         },
         {
@@ -762,10 +778,10 @@
                 "duration": "PT16M39S"
             },
             "statistics": {
-                "viewCount": "139589079",
-                "likeCount": "2836352",
+                "viewCount": "139714054",
+                "likeCount": "2838142",
                 "favoriteCount": "0",
-                "commentCount": "82772"
+                "commentCount": "82780"
             }
         },
         {
@@ -778,10 +794,10 @@
                 "duration": "PT13M52S"
             },
             "statistics": {
-                "viewCount": "143651233",
-                "likeCount": "2904030",
+                "viewCount": "143761756",
+                "likeCount": "2906047",
                 "favoriteCount": "0",
-                "commentCount": "77722"
+                "commentCount": "77734"
             }
         }
     ]
