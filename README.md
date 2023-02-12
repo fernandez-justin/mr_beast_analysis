@@ -24,7 +24,9 @@ Other more open ended trends to investigate:
 # Analysis
 
 The first investigation was if duration has an impact on views.
+
 ![alt text](/images/duration_vs_view_count.jpg)
+
 From the above image we can see there is a slight correlation.
 
 
