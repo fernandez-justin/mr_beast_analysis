@@ -27,7 +27,9 @@ def main():
     credentials = flow.run_local_server()
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, credentials=credentials)
-
+    # 1st page next page token = CDIQAA
+    # 2nd page next page token = CGQQAA
+    # 
     request = youtube.search().list(
         #fields="items(id(videoId),snippet(title,publishedAt))",
         part="snippet",
@@ -35,6 +37,7 @@ def main():
         order='date',
         type='video',
         videoDuration='medium',
+        pageToken='CGQQAA',
         maxResults=50
     )
     response = request.execute()
@@ -45,7 +48,7 @@ def main():
 
     # with open('..\\video_api_data_full\\full_videos_output_1_50.txt','w') as f:
     #     f.write(json_object)
-    with open('..\\video_api_data_full\\video_id_pull_1_50.json','w') as f:
+    with open('..\\video_api_data_full\\video_id_pull_101_150.json','w') as f:
         f.write(json_object)
 
 if __name__ == "__main__":
