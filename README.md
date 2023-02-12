@@ -19,7 +19,9 @@ Other more open ended trends to investigate:
 1. Why is having your mouth open in thumbnails so effective?
 1. Performance vs If Jimmy is in Thumbnail?
 1. Is money involved vs performance? Amount of money vs performance?
-1. 
+
+
+![alt text](/images/duration_vs_view_count.jpg)
 
 
 
