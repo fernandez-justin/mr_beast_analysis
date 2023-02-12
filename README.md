@@ -20,3 +20,6 @@ Other more open ended trends to investigate:
 1. Performance vs If Jimmy is in Thumbnail?
 1. Is money involved vs performance? Amount of money vs performance?
 1. 
+
+
+

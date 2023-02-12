@@ -36,8 +36,8 @@ def main():
         channelId='UCX6OQ3DkcsbYNE6H8uQQuVA',
         order='date',
         type='video',
-        videoDuration='medium',
-        pageToken='CGQQAA',
+        videoDuration='long', # medium and long are videos 4-20, and 20+
+        #pageToken='CGQQAA',
         maxResults=50
     )
     response = request.execute()
@@ -48,7 +48,7 @@ def main():
 
     # with open('..\\video_api_data_full\\full_videos_output_1_50.txt','w') as f:
     #     f.write(json_object)
-    with open('..\\video_api_data_full\\video_id_pull_101_150.json','w') as f:
+    with open('..\\video_api_data_full\\video_id_pull_1_50_long.json','w') as f:
         f.write(json_object)
 
 if __name__ == "__main__":
