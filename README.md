@@ -1,7 +1,14 @@
 # Mr Beast Analysis
 
+
 # Problem Overview
-Identify trends of Mr. Beast's Youtube Channel using the data provided by the Youtube API.
+Identify trends of Mr. Beast's Youtube Channel using the data provided by the Youtube API as well as the videos themselves.
+
+# Analysis
+
+All analysis can be found in ![this notebook](full_video_analysis.ipynb)
+
+## Possible Trends To Investigate
 
 Possible Trends to Investigate using Youtube API Data:
 1. What factors contribute to view count, like count, comment count?
@@ -20,8 +27,7 @@ Other more open ended trends to investigate:
 1. Performance vs If Jimmy is in Thumbnail?
 1. Is money involved vs performance? Amount of money vs performance?
 
-
-# Analysis
+### Duration Vs View Count
 
 The first investigation was if duration has an impact on views.
 
