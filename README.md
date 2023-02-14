@@ -19,7 +19,15 @@ Other more open ended trends to investigate:
 1. Why is having your mouth open in thumbnails so effective?
 1. Performance vs If Jimmy is in Thumbnail?
 1. Is money involved vs performance? Amount of money vs performance?
-1. 
+
+
+# Analysis
+
+The first investigation was if duration has an impact on views.
+
+![alt text](/images/duration_vs_view_count.jpg)
+
+From the above image we can see there is a slight correlation.
 
 
 
