@@ -1,5 +1,14 @@
 # Mr Beast Analysis
 
+### Folder Structure
+a. images - data visualizationh
+a. video_api_data_full 
+  a. youtube api data pulled from the channel to get ids
+  a. youtube api data pulled for each video
+a. youtube_api_json_struct - structure of youtube api video and channels
+a. youtube_api_pull_scripts - youtube api pulling and testing
+a. full_video_analysis.ipynb - analysis on videos using YouTube api data
+a. video_frame_change_analysis.ipynb - using python library to detect scene changes and measure them in number of frames
 
 # Problem Overview
 Identify trends of Mr. Beast's Youtube Channel using the data provided by the Youtube API as well as the videos themselves.
