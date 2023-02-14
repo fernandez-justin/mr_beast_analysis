@@ -27,7 +27,8 @@ The first investigation was if duration has an impact on views.
 
 ![alt text](/images/duration_vs_view_count.jpg)
 
-From the above image we can see there is a slight correlation.
+There is some correlation between the length and performance. If we look at the above graph we can see in the most recent 100 videos longer than 4 minutes there is a slight correlation (0.281 Pearson Correlation) between the duration of a video and the view count of a video. That is not to say that more views is better, but if we look at that same set of videos, the highest view count of a video under 10 minutes was 172 million (World’s Most Dangerous Escape Room!). Ten videos over 10 minutes have gotten more views than this. Twelve videos were posted under 10 minutes, 88 videos being posted over 10 minutes. If we are striving for over 200 millions views on a video, which the staple videos of the channel have done (“$456,000 Squid Game In Real Life!”, “Last To Leave Circle Wins $500,000”, “I Spent 50 Hours In Solitary Confinement”), the shorter videos may need to change or videos under that length may need to be lengthened.
 
+![alt text](/images/boxplot_view_times.jpg)
 
 
