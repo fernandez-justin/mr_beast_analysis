@@ -47,3 +47,8 @@ There is some correlation between the length and performance. If we look at the 
 ![alt text](/images/boxplot_view_times.jpg)
 
 
+
+# Results
+
+1. Duration vs View Count - there does not seem to be a correlation between duration and view count but I will say the longer the video the higher the max amount of views.
+1. He almost always posts from 3pm-4pm EST (20:00-21:00 GMT)
